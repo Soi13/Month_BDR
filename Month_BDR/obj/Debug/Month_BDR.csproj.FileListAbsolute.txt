@@ -1,0 +1,11 @@
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\bin\Debug\Month_BDR.exe
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\bin\Debug\Month_BDR.pdb
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.Form1.resources
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.Properties.Resources.resources
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.csproj.GenerateResource.Cache
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.exe
+c:\users\skvortcovoi\documents\visual studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.pdb
+C:\Users\SkvortcovOI\Documents\Visual Studio 2012\Projects\Month_BDR\Month_BDR\bin\Debug\Month_BDR.exe.config
+c:\Users\OLEG\Documents\Visual Studio 2012\Projects\Month_BDR\Month_BDR\bin\Debug\Month_BDR.exe.config
+c:\Users\OLEG\Documents\Visual Studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.exe
+c:\Users\OLEG\Documents\Visual Studio 2012\Projects\Month_BDR\Month_BDR\obj\Debug\Month_BDR.pdb
